@@ -71,7 +71,7 @@
           "background": "#33658A",
           "foreground": "#ffffff",
           "properties": {
-            "time_format": "15:04"
+            "time_format": "15:04:05"
           },
           "style": "diamond",
           "template": " \u2665 {{ .CurrentDate | date .Format }} ",
